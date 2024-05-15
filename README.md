@@ -46,6 +46,50 @@
 - FEATURE 3
 
 
+### Install locally
+
+1. Clone the repository:
+    ```bash
+    $ git clone https://github.com/ORG/TEAMNAME.git
+    ```
+
+2. Navigate to the frontend directory:
+    ```bash
+    $ cd TEAMNAME
+    ```
+
+3. Install dependencies:
+    ```bash
+    $ npm install
+    ```
+4. Run project:
+    ```bash
+    $ npm run dev
+    ```
+
+
+### Install using Docker
+
+To deploy TEAMNAME using Docker, follow these steps:
+
+1. Pull the Docker image from Docker Hub:
+
+    ```bash
+    $ docker pull sandra/TEAMNAME:latest
+    ```
+
+2. Run the Docker container:
+
+    ```bash
+    $ docker run -d -p 5000:5000 sandramsc/TEAMNAME:latest
+    ```
+
+### Usage
+
+HOW TO USE THE APP ON WEB INTERFACE
+
+
+
 ## Authors
 
 | Name           | Link                                      |
