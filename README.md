@@ -31,7 +31,7 @@
 | ---------- | --------------------------- |
 | Langchain    | a framework designed to simplify the creation of applications using large language models. |
 | Python     | Programming Language        |
-| weviate- for vector database | description |
+| weviate- for vector database | an open-source vector database. It enables you to store data objects and vector embeddings and query them. |
 | GPT-4o | description |
 |  Stable Diffusion   | description       |
 | Whisper | description |
