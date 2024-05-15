@@ -29,7 +29,7 @@
 
 | Technology | Description                 |
 | ---------- | --------------------------- |
-| Langchain    | description |
+| Langchain    | a framework designed to simplify the creation of applications using large language models. |
 | Python     | Programming Language        |
 | weviate- for vector database | description |
 | GPT-4o | description |
