@@ -37,8 +37,7 @@
 | Whisper | an automatic speech recognition (ASR) system. |
 | Docker     | Containerization            |
 | Steamlit  | an open-source framework to rapidly build and share beautiful machine learning and data science web apps. |
-|SXDL| description|
-|Stable Difusion| description |
+|SXDL| an open source set of tools which allows beginner and experienced programmers to create video games.|
 ## Features
 
 - FEATURE 1
