@@ -94,8 +94,8 @@ HOW TO USE THE APP ON WEB INTERFACE
 | -------------- | ----------------------------------------- |
 | Sandra Ashipala | [GitHub](https://github.com/sandramsc) |
 | Shayan Pervez | [GitHub](https://github.com/ShayanPervez) |
-| Narendra| [GitHub](narendrapal2020@gmail.com) |
-| Priyanshu | [GitHub](https://github.com/roypr0369) |
+| Narendra Pal Singh| [GitHub](narendrapal2020@gmail.com) |
+| Priyanshu Roy| [GitHub](https://github.com/roypr0369) |
 
 ## License
 
