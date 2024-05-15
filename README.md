@@ -36,7 +36,7 @@
 |  Stable Diffusion   |  a deep learning model that generates images from text descriptions.       |
 | Whisper | an automatic speech recognition (ASR) system. |
 | Docker     | Containerization            |
-| Steamlit  | description |
+| Steamlit  | an open-source framework to rapidly build and share beautiful machine learning and data science web apps. |
 |SXDL| description|
 |Stable Difusion| description |
 ## Features
