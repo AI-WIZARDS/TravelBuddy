@@ -29,14 +29,16 @@
 
 | Technology | Description                 |
 | ---------- | --------------------------- |
-| TensorFlow      | Machine Learning Framework |
+| Langchain    | description |
 | Python     | Programming Language        |
-| Flask      | Web Framework               |
+| weviate- for vector database | description |
+| GPT-4o | description |
+|  Stable Diffusion   | description       |
+| Whisper | description |
 | Docker     | Containerization            |
-| TrueLens    | a software tool that helps you to objectively measure the quality and effectiveness of your LLM-based applications using feedback functions. |
-|LlamaIndex| Streamlines data integration, indexing, and querying for AI apps.|
-|React| Open-source front-end JavaScript library for building user interfaces based on components..|
-
+| Steamlit  | description |
+|SXDL| description|
+|Stable Difusion| description |
 ## Features
 
 - FEATURE 1
