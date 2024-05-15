@@ -33,7 +33,7 @@
 | Python     | Programming Language        |
 | weviate- for vector database | an open-source vector database. It enables you to store data objects and vector embeddings and query them. |
 | GPT-4o | is OpenAI's new flagship model that can reason across audio, vision, and text in real time. |
-|  Stable Diffusion   | description       |
+|  Stable Diffusion   |  a deep learning model that generates images from text descriptions.       |
 | Whisper | description |
 | Docker     | Containerization            |
 | Steamlit  | description |
