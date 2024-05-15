@@ -1,17 +1,17 @@
 <!-- PROJECT TITLE -->
-  <h1 align="center">TEAM NAME</h1>
+  <h1 align="center">TravelBuddy</h1>
  <div id="header" align="center">
 </div>
 <h2 align="center">
  Description
 </h2>
 <p align="center"> 
-   An AI-powered tool etc... </p>
+   Add tool description here </p>
 
 ## Table of Contents
 
 <details>
-<summary>TEAM NAME</summary>
+<summary>TravelBuddy</summary>
   
 - [Application Description](#application-description)
 - [Table of Contents](#table-of-contents)
@@ -22,7 +22,7 @@
 </details>
 
 ## TRY the prototype
-[TEAM NAME](https://link.vercel.app/)
+[TravelBuddy](https://link.vercel.app/)
 
 
 ## Technology Stack
@@ -33,10 +33,8 @@
 | Python     | Programming Language        |
 | Flask      | Web Framework               |
 | Docker     | Containerization            |
-| MongoDB	    |  |
 | TrueLens    | a software tool that helps you to objectively measure the quality and effectiveness of your LLM-based applications using feedback functions. |
 |LlamaIndex| Streamlines data integration, indexing, and querying for AI apps.|
-|JavaScript|  A programming language and core technology of the Web.|
 |React| Open-source front-end JavaScript library for building user interfaces based on components..|
 
 ## Features
@@ -50,12 +48,12 @@
 
 1. Clone the repository:
     ```bash
-    $ git clone https://github.com/ORG/TEAMNAME.git
+    $ git clone https://github.com/AI-WIZARDS/TravelBuddy.git
     ```
 
 2. Navigate to the frontend directory:
     ```bash
-    $ cd TEAMNAME
+    $ cd TravelBuddy
     ```
 
 3. Install dependencies:
@@ -70,18 +68,18 @@
 
 ### Install using Docker
 
-To deploy TEAMNAME using Docker, follow these steps:
+To deploy TravelBuddy using Docker, follow these steps:
 
 1. Pull the Docker image from Docker Hub:
 
     ```bash
-    $ docker pull sandra/TEAMNAME:latest
+    $ docker pull sandra/travelbuddy:latest
     ```
 
 2. Run the Docker container:
 
     ```bash
-    $ docker run -d -p 5000:5000 sandramsc/TEAMNAME:latest
+    $ docker run -d -p 5000:5000 sandramsc/travelbuddy:latest
     ```
 
 ### Usage
@@ -99,4 +97,4 @@ HOW TO USE THE APP ON WEB INTERFACE
 
 ## License
 
-[![GitLicense](https://img.shields.io/badge/License-MIT-lime.svg)](https://github.com/sandramsc/TEAMNAME/blob/main/LICENSE)
+[![GitLicense](https://img.shields.io/badge/License-MIT-lime.svg)](https://github.com/AI-WIZARDS/TravelBuddy/blob/main/LICENSE)
