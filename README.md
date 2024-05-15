@@ -93,7 +93,7 @@ HOW TO USE THE APP ON WEB INTERFACE
 | Name           | Link                                      |
 | -------------- | ----------------------------------------- |
 | Sandra Ashipala | [GitHub](https://github.com/sandramsc) |
-| Your Name | [GitHub](https://github.com/link) |
+| Shayan Pervez | [GitHub]([https://github.com/link](https://github.com/ShayanPervez)) |
 
 ## License
 
