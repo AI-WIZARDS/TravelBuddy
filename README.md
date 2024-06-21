@@ -93,7 +93,6 @@ HOW TO USE THE APP ON WEB INTERFACE
 
 | Name           | Link                                      |
 | -------------- | ----------------------------------------- |
-| Sandra Ashipala | [GitHub](https://github.com/sandramsc) |
 | Shayan Pervez | [GitHub](https://github.com/ShayanPervez) |
 | Narendra Pal Singh| [GitHub](narendrapal2020@gmail.com) |
 | Priyanshu Roy| [GitHub](https://github.com/roypr0369) |
